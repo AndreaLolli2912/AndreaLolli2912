@@ -12,7 +12,7 @@
 
 🌟 Although not an expert yet, I'm committed to expanding my knowledge and skills in AI.
 
-💡 Key Aspects of My Learning Journey:
+💡 Key Aspects of My current Learning Journey:
 
 - 📚 Exploring the realms of Information Retrieval, Recommender Systems, Data Mining, and Knowledge Extraction.
 - 💼 Actively participating in practical AI projects to apply my theoretical knowledge.
