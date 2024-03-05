@@ -18,6 +18,6 @@
 - 💼 Actively participating in practical AI projects to apply my theoretical knowledge.
 - 📊 Dedicated to leveraging AI to tackle real-world challenges and create positive impacts.
 
-🙋‍♂️ I'm always excited to connect with fellow learners and experienced professionals in the AI community. Don't hesitate to reach out to me for a chat or collaboration through [LinkedIn](https://www.linkedin.com/in/andrea-lolli-a5834422b/) or shoot me an 📧 email at [andrea.lolli1@outlook.com](mailto:andrea.lolli1@outlook.com).
+🙋‍♂️ I'm always excited to connect with fellow learners and experienced professionals in the AI community. Don't hesitate to reach out to me for a chat or collaboration through [LinkedIn](https://www.linkedin.com/in/andrea-lolli-2912aq/) or shoot me an 📧 email at [andrea.lolli1@outlook.com](mailto:andrea.lolli1@outlook.com).
 
 🌐 Feel free to explore my projects to see how I'm progressing on my AI learning journey!
