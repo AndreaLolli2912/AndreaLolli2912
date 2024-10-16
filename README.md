@@ -1,23 +1,19 @@
-### 👋 Hello, I'm Andrea Lolli
+Hello, I'm Andrea Lolli
 
-🎓 I have graduated with a Bachelor's degree in Artificial Intelligence from the University of Pavia, Milano Statale, and Milano Bicocca, dedicated to continuous learning and growth in the field of AI.
+I am a Bachelor's graduate in Artificial Intelligence from the University of Pavia, Milano Statale, and Milano Bicocca, currently pursuing a Master's degree in Data Science and Engineering at the Polytechnic University of Turin.
 
-🤖 I'm on an everlasting journey to decode the secrets of machines and befriend all the algorithms. 😄
+Professional Focus:
 
-🌱 My passion revolves around AI, with a particular focus on:
+Artificial Intelligence and Machine Learning: Specializing in advanced machine learning techniques, deep learning architectures, and their applications in solving complex problems.
+Natural Language Processing: Expertise in cutting-edge NLP for language understanding and generation.
+Generative AI and Open Source LLMs: Experience in developing generative models and working with large language models.
+Professional Experience:
 
-- 🧠 Advanced Machine Learning techniques and their applications
-- 📚 Cutting-edge Natural Language Processing for language understanding and generation
-- 🔍 Deep Learning architectures and models for solving complex problems
+Gained practical experience through an internship at Accenture Spa's Applied Intelligence department, working on Generative AI projects. Developed HealthVision-AI, an advanced OCR solution leveraging multimodal large language models and AI services, achieving an 18% increase in extraction accuracy over existing solutions for a primary client.
+Commitment:
 
-🌟 Committed to expanding my knowledge and skills in AI.
+Dedicated to leveraging AI to address real-world challenges and create positive impacts.
+Continuously exploring new AI technologies and methodologies to stay at the forefront of the field.
+Get in Touch:
 
-💡 Key Aspects of My Professional Journey:
-
-- 💼 Gaining practical experience through an internship at Accenture Spa in the Applied Intelligence department, working on Generative AI projects.
-- 📊 Dedicated to leveraging AI to tackle real-world challenges and create positive impacts.
-- 🚀 Continuously exploring new AI technologies and methodologies to stay at the forefront of the field.
-
-🙋‍♂️ I'm always excited to connect with fellow learners and experienced professionals in the AI community. Don't hesitate to reach out to me for a chat or collaboration through [LinkedIn](https://www.linkedin.com/in/andrea-lolli-2912aq/) or shoot me an 📧 email at [andrea.lolli1@outlook.com](mailto:andrea.lolli1@outlook.com).
-
-🌐 Feel free to explore my projects to see how I'm progressing on my AI journey!
+I am open to connecting with professionals and collaborators in the AI community. Feel free to reach out via LinkedIn or email me at andrea.lolli1@outlook.com.
