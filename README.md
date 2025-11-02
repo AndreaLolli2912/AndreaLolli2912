@@ -1,12 +1,11 @@
 # 👋 Hello, I'm Andrea Lolli
 
-🎓 Bachelor's graduate in Artificial Intelligence from the University of Pavia, Milano Statale, and Milano Bicocca, currently pursuing an MSc in Data Science and Engineering at the Polytechnic University of Turin.
+MSc student in **Data Science and Engineering** at *Politecnico di Torino*.  
+BSc in **Artificial Intelligence** (Universities of Pavia, Milan, and Milano-Bicocca).
 
-## 🛠️ Professional Experience
-
-- **Accenture Spa's Applied Intelligence Department:** Developed **HealthVision-AI**, an advanced OCR solution leveraging multimodal large language models and AI services, achieving an **18% increase in extraction accuracy** over existing solutions for a primary client.
-
+I’m interested in **neural computation**, **spiking neural networks**, **neuromorphic hardware**, and **efficient AI** for biomedical applications.
 
 ## 🤝 Get in Touch
-
-I'm open to connecting with professionals and collaborators in the AI community. Feel free to reach out via [LinkedIn]([[your-linkedin-profile-url](https://www.linkedin.com/in/andrea-lolli-2912aq/)](https://www.linkedin.com/in/andrea-lolli-2912aq/)) or email me at [andrea.lolli1@outlook.com](mailto:andrea.lolli1@outlook.com).
+📧 [andrea.lolli1@outlook.com](mailto:andrea.lolli1@outlook.com)  
+🔗 [linkedin.com/in/andrea-lolli-2912aq](https://www.linkedin.com/in/andrea-lolli-2912aq)  
+💻 [github.com/AndreaLolli2912](https://github.com/AndreaLolli2912)
